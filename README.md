@@ -1,1 +1,2 @@
-Shared.C: Exemplo simples de código C que utiliza o modelo de memória compartilhada no Unix/Linux. O código cria um segmento de memória compartilhada, permite que um processo pai e um processo filho compartilhem dados e sincronizem suas ações.
+Shared.c: Exemplo simples de código C que utiliza o modelo de memória compartilhada no Unix/Linux. O código cria um segmento de memória compartilhada, permite que um processo pai e um processo filho compartilhem dados e sincronizem suas ações.
+Threads.c: Exemplo simples de código em C que utiliza threads (modelo de threads) com a biblioteca Pthreads. Esse código cria duas threads, onde cada uma executa uma função que imprime uma mensagem.
